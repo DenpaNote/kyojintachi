@@ -62,6 +62,10 @@ const config: Config = {
           position: 'left',
           label: 'NAVI',
         },
+        {
+          to: "blog",
+          label: "乱声",
+        }
       ],
     },
     footer: {
