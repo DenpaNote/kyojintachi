@@ -1,8 +1,9 @@
 {
-  "label": "离开的人们 2",
-  "position": 3,
-  "link": {
-    "type": "generated-index",
-    "description": "路标。"
+    "label": "离开的人们 2",
+    "position": 3,
+    "link": {
+      "type": "generated-index",
+      "description": "路标。"
+    }
   }
-}
+  
