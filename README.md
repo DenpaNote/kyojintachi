@@ -10,4 +10,4 @@ WIP
 
 [■离开的人们 YouTube 频道](https://www.youtube.com/channel/UCirKaOCFxZmwpbjc5GD2eBQ)
 
-[■离开的人们Ⅰ/Ⅱ官方网站](http://kyojintachi.k2cee.com/)
+[■离开的人们 Ⅰ/Ⅱ 官方网站](http://kyojintachi.k2cee.com/)
