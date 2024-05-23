@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://denpanote.moe/kyojintachi/blog</id>
+    <title>《离开的人们》知识领航员 Blog</title>
+    <updated>2024-05-23T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://denpanote.moe/kyojintachi/blog"/>
+    <subtitle>《离开的人们》知识领航员 Blog</subtitle>
+    <icon>https://denpanote.moe/kyojintachi/img/t_op.png</icon>
+    <entry>
+        <title type="html"><![CDATA[初次见面]]></title>
+        <id>https://denpanote.moe/kyojintachi/blog/2024-05-23-hello</id>
+        <link href="https://denpanote.moe/kyojintachi/blog/2024-05-23-hello"/>
+        <updated>2024-05-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[有关于《离开的人们》维基（本站）的介绍]]></summary>
+        <content type="html"><![CDATA[<p>「初次见面──哦。」</p>]]></content>
+        <author>
+            <name>Shionsan</name>
+            <uri>https://yazawazi.moe</uri>
+        </author>
+        <category label="hello" term="hello"/>
+    </entry>
+</feed>
