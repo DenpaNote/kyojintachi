@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkyojintachi_wiki=self.webpackChunkkyojintachi_wiki||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\u521d\u6b21\u89c1\u9762","permalink":"/blog/2024-05-23-hello","unlisted":false}]}')}}]);

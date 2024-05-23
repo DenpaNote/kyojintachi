@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>《离开的人们》知识领航员 Blog</title>
-        <link>https://denpanote.moe/kyojintachi/blog</link>
+        <link>https://denpanote.moe/blog</link>
         <description>《离开的人们》知识领航员 Blog</description>
         <lastBuildDate>Thu, 23 May 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,8 +10,8 @@
         <language>zh-Hans</language>
         <item>
             <title><![CDATA[初次见面]]></title>
-            <link>https://denpanote.moe/kyojintachi/blog/2024-05-23-hello</link>
-            <guid>https://denpanote.moe/kyojintachi/blog/2024-05-23-hello</guid>
+            <link>https://denpanote.moe/blog/2024-05-23-hello</link>
+            <guid>https://denpanote.moe/blog/2024-05-23-hello</guid>
             <pubDate>Thu, 23 May 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[有关于《离开的人们》维基（本站）的介绍]]></description>
             <content:encoded><![CDATA[<p>「初次见面──哦。」</p>]]></content:encoded>

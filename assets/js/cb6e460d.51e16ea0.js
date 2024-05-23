@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkkyojintachi_wiki=self.webpackChunkkyojintachi_wiki||[]).push([[977],{211:i=>{i.exports=JSON.parse('{"tags":[{"label":"hello","permalink":"/kyojintachi/blog/tags/hello","count":1}]}')}}]);

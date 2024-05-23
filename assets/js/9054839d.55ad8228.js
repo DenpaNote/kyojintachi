@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkkyojintachi_wiki=self.webpackChunkkyojintachi_wiki||[]).push([[787],{4402:t=>{t.exports=JSON.parse('{"metadata":{"permalink":"/kyojintachi/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
