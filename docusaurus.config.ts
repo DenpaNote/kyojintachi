@@ -28,6 +28,13 @@ const config: Config = {
     defaultLocale: 'zh-Hans',
     locales: ['zh-Hans'],
   },
+  
+  markdown: {
+    remarkRehypeOptions: {
+      // i18n footnote
+      footnoteLabel: "参考文献"
+    }
+  },
 
   presets: [
     [
