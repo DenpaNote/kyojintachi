@@ -7,7 +7,7 @@
 
 ## 使用方式
 
-您可以访问[此页面](https://denpanote.moe/kjojintachi/)浏览线上文档。
+您可以访问[此页面](https://kyojintachi.denpanote.moe/)浏览线上文档。
 
 ### 本地部署
 
