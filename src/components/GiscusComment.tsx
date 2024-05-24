@@ -2,7 +2,7 @@ import Giscus from "@giscus/react"
 import { useEffect, useRef, useState } from "react"
 
 const GiscusComment = () => {
-    const [theme, setTheme] = useState(document.documentElement.getAttribute('data-theme'))
+    const [theme, setTheme] = useState('preferred_color_scheme')
     const observerLock = useRef(false)
   
     const updateTheme = () => {
@@ -10,6 +10,7 @@ const GiscusComment = () => {
     }
     
     useEffect(() => {
+      setTheme(document.documentElement.getAttribute('data-theme'))
       if (!observerLock.current) {
         observerLock.current = true
         const observer = new MutationObserver(() => {
