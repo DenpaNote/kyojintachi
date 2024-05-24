@@ -24,6 +24,12 @@
 - [离开的人们 YouTube 频道](https://www.youtube.com/channel/UCirKaOCFxZmwpbjc5GD2eBQ)
 - [离开的人们 Ⅰ/Ⅱ 官方网站](http://kyojintachi.k2cee.com/)
 
+## 版权
+
+知识库的内容采用 CC-BY-SA-4.0 协议提供。对于本项目为解释目的所使用的《离开的人们》资源和文本，版权归属于 K2Cee，未经许可，不得商用。部分资源文件引自互联网，版权为原作者所有。
+
+如有侵犯您本人的正常权益，请通过 Issue 向我们告知。
+
 ## 贡献者
 
 ![Contributors](https://contrib.rocks/image?repo=DenpaNote/kyojintachi)

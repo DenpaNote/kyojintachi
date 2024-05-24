@@ -75,6 +75,13 @@ const config: Config = {
         {
           to: "blog",
           label: "乱声",
+        },
+        {
+          href: "https://github.com/DenpaNote/kyojintachi",
+          label: "GitHub",
+          position: 'right',
+          className: "header-github-link",
+          "aria-label": "GitHub Repository",
         }
       ],
     },
