@@ -2,7 +2,7 @@ import Giscus from "@giscus/react"
 import { useEffect, useRef, useState } from "react"
 
 const GiscusComment = () => {
-    const [theme, setTheme] = useState('preferred_color_scheme')
+    const [theme, setTheme] = useState(document.documentElement.getAttribute('data-theme'))
     const observerLock = useRef(false)
   
     const updateTheme = () => {
