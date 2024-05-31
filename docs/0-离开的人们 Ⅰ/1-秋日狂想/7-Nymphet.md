@@ -7,5 +7,5 @@
 
 ---
 
-[^1]: Vladimir Nabokov. Lolita. Penguin Modern Classics. 2000: 10.
+[^1]: Vladimir Nabokov. Lolita. Penguin Modern Classics. 2000: 10.  
 [^2]: 弗拉基米尔・纳博科夫. 洛丽塔. 主万，译. 上海译文出版社. 2019: 16.
