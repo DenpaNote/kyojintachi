@@ -1,4 +1,4 @@
-# L@ve Letter
+# L＠ve Letter
 
 ## 频段
 
