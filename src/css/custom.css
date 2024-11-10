@@ -53,6 +53,6 @@ html[data-theme='dark'] .header-github-link:before {
     no-repeat;
 }
 
-span[class='katex-html', aria-hidden='true'] {
+/* span[class='katex-html', aria-hidden='true'] {
   display: none;
-}
+} */
