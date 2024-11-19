@@ -15,6 +15,14 @@
 
 ヘッドマウントディスプレイ（英文：Head-Mounted Display，HMD），是一种可以佩戴在头部的显示器，可以提供沉浸式的视觉体验，通常用于虚拟现实（VR），并与陀螺仪和其他传感器配合使用。在军方和政府方面，头戴显示器的投入使用比民用更早，常用于飞行员、消防员、警察、伞兵等特殊职业。
 
+### 单眼透明显示器
+
+在 L@ve Lettering 章节中，提到了「单眼透明显示器」，这是一种可以透过显示器看到外界的显示器，通常用于 AR（增强现实）应用，以下是来自美国军方的图像：
+
+![U.S. Air Force Senior Airman Dieri Dieujuste, an aircrew flight equipment technician with the 74th Expeditionary Fighter Squadron, tests a Scorpion helmet mounted integrated targeting system at Bagram Airfield 130429-F-ZX232-013](../images/U.S._Air_Force.jpg)
+
+> U.S. Air Force Senior Airman Dieri Dieujuste, an aircrew flight equipment technician with the 74th Expeditionary Fighter Squadron, tests a Scorpion helmet mounted integrated targeting system at Bagram Airfield, Parwan province, Afghanistan, April 29, 2013. The system increased pilots' combat effectiveness by displaying targeting and tracking data in real time through an eyepiece.
+
 ## 通信局
 
 通信局（日原：逓信局，又作递信局），是日本曾经管理邮政、通信和交通的一个中央政府机构。二战后曾短暂复活，随后延续至 1949 年，在此期间仅仅管辖了通信和航空安全。相当于总务省、日本邮政、国土交通省民航局和日本电信电话的前身。[^1]
