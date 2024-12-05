@@ -4,10 +4,28 @@
         <title>《离开的人们》知识领航员 Blog</title>
         <link>https://denpanote.moe/blog</link>
         <description>《离开的人们》知识领航员 Blog</description>
-        <lastBuildDate>Thu, 23 May 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Dec 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
+        <item>
+            <title><![CDATA[离开的人们 Zero -Prologue- 第一章体验版发布]]></title>
+            <link>https://denpanote.moe/blog/2024-12-05-first</link>
+            <guid>https://denpanote.moe/blog/2024-12-05-first</guid>
+            <pubDate>Thu, 05 Dec 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[斑猫研汉化，第一章体验版已于 12 月 05 日 发布。]]></description>
+            <content:encoded><![CDATA[<blockquote>
+<p>有关读档、存档、快进、历史对话和译注的逻辑或功能不再更新，这些功能也并非由 K2Cee 实现，而是汉化组在其之上添加的功能。其引擎代码限制，维护较为困难，程序不保证此类功能的完备性。</p>
+<p>此外，您不得向 K2Cee 汇报（通过 Discord，X，邮箱或其他联系方式）有关读档、存档、快进、历史对话、译注和汉化感言页面所引起的错误，再次提醒，这些功能的最终实现并非出自 K2Cee。如果出现无法使游戏继续的情况（指无法继续操作，对于历史对话中出现全部文本、结尾文本无法快进等问题不再受理）请加入测试群（QQ 群：821150410）或提交 Issue 汇报（电波脚注 GitHub）。</p>
+<p>另，此后若是有文本补丁，因引擎限制，过去的存档或无法使用，请使用「章节选择」功能跳转至想读的位置后存档即可。</p>
+</blockquote>
+<p>离开的人们 Zero -Prologue- 第一章体验版正式发布，您可以前往以下页面下载该体验版：</p>
+<ul>
+<li><a href="https://github.com/DenpaNote/kyojintachi0p" target="_blank" rel="noopener noreferrer">电波脚注 GitHub</a></li>
+</ul>
+<p>正式版将于 12 月 25 日发布，敬请期待！</p>]]></content:encoded>
+            <category>汉化</category>
+        </item>
         <item>
             <title><![CDATA[初次见面]]></title>
             <link>https://denpanote.moe/blog/2024-05-23-hello</link>
