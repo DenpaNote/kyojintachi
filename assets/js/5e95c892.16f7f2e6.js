@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkkyojintachi_wiki=self.webpackChunkkyojintachi_wiki||[]).push([[9647],{5809:(e,i,s)=>{s.r(i),s.d(i,{default:()=>k});s(758);var r=s(3526),a=s(7243),c=s(5209),n=s(1977),t=s(8490),u=s(6070);function k(e){return(0,u.jsx)(a.e3,{className:(0,r.A)(c.G.wrapper.docsPages),children:(0,u.jsx)(t.A,{children:(0,n.v)(e.route.routes)})})}}}]);
