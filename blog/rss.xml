@@ -4,10 +4,46 @@
         <title>《离开的人们》知识领航员 Blog</title>
         <link>https://denpanote.moe/blog</link>
         <description>《离开的人们》知识领航员 Blog</description>
-        <lastBuildDate>Thu, 05 Dec 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Dec 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
+        <item>
+            <title><![CDATA[离开的人们 Zero -Prologue- 正式版发布]]></title>
+            <link>https://denpanote.moe/blog/2024-12-25-first</link>
+            <guid>https://denpanote.moe/blog/2024-12-25-first</guid>
+            <pubDate>Wed, 25 Dec 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[斑猫研汉化组、驎之个人汉化]]></description>
+            <content:encoded><![CDATA[<p>汉化发布：</p>
+<blockquote>
+<p>有关读档、存档、快进、历史对话和译注的逻辑或功能不再更新新功能，这些功能也并非由 K2Cee 实现，而是汉化组在其之上添加的功能。其引擎代码限制，维护较为困难，程序不保证此类功能的完备性。</p>
+<p>此外，您不得向 K2Cee 汇报（通过 Discord，X，邮箱或其他联系方式）有关读档、存档、快进、历史对话、译注和汉化感言页面所引起的错误，再次提醒，这些功能的最终实现并非出自 K2Cee。如果出现无法使游戏继续的情况（指无法继续操作，而对于历史对话中出现全部文本、结尾文本无法快进等问题不再受理）请加入反馈群（见下文不同的汉化版本）。</p>
+<p>另，此后若是有文本补丁，因引擎限制，过去的存档或无法使用，请使用「章节选择」功能跳转至想读的章节后存档即可。</p>
+</blockquote>
+<h2 class="anchor anchorWithStickyNavbar_LVT8" id="斑猫研汉化组">斑猫研汉化组<a href="https://denpanote.moe/blog/2024-12-25-first#%E6%96%91%E7%8C%AB%E7%A0%94%E6%B1%89%E5%8C%96%E7%BB%84" class="hash-link" aria-label="斑猫研汉化组的直接链接" title="斑猫研汉化组的直接链接">​</a></h2>
+<ul>
+<li><a href="https://github.com/DenpaNote/kyojintachi0p" target="_blank" rel="noopener noreferrer">电波脚注 GitHub 发布页</a></li>
+<li><a href="https://pan.baidu.com/s/1ViY_WjClbpbqy6t_Kno2cQ?pwd=1225" target="_blank" rel="noopener noreferrer">百度网盘，Windows 操作系统</a>，提取码：1225</li>
+<li><a href="https://pan.baidu.com/s/1I_-NI-RgLRjyqb-B0NjnGg?pwd=1225" target="_blank" rel="noopener noreferrer">百度网盘，其他操作系统</a>，提取码：1225</li>
+</ul>
+<p>反馈 QQ 群号：1006184061。</p>
+<h2 class="anchor anchorWithStickyNavbar_LVT8" id="驎之个人汉化">驎之个人汉化<a href="https://denpanote.moe/blog/2024-12-25-first#%E9%A9%8E%E4%B9%8B%E4%B8%AA%E4%BA%BA%E6%B1%89%E5%8C%96" class="hash-link" aria-label="驎之个人汉化的直接链接" title="驎之个人汉化的直接链接">​</a></h2>
+<ul>
+<li><a href="https://pan.baidu.com/s/1sjv6QJ06OOMwNyqu6RQX1g" target="_blank" rel="noopener noreferrer">百度网盘</a>，提取码：zero</li>
+<li><a href="https://pan.quark.cn/s/1eab4558a591" target="_blank" rel="noopener noreferrer">夸克盘</a>，提取码：tkgU</li>
+<li><a href="https://drive.google.com/file/d/191sREl49hUijMwVbcjyoXT1It2urjyyR/view?usp=sharing" target="_blank" rel="noopener noreferrer">谷歌盘</a></li>
+</ul>
+<p>反馈 QQ 群号：699762386。</p>
+<p>汉化名单</p>
+<ul>
+<li>汉化：驎之</li>
+<li>校对：驎之、深见庆、ELFEE、蝉</li>
+<li>程序：DJ Godot</li>
+<li>美工：kyoshi</li>
+<li>特别感谢：斑猫研、武陵人汉化组、Cottery、fo、以及其他热心网友</li>
+</ul>]]></content:encoded>
+            <category>汉化</category>
+        </item>
         <item>
             <title><![CDATA[离开的人们 Zero -Prologue- 第一章体验版发布]]></title>
             <link>https://denpanote.moe/blog/2024-12-05-first</link>

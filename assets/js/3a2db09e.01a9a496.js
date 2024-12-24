@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkkyojintachi_wiki=self.webpackChunkkyojintachi_wiki||[]).push([[8121],{8070:l=>{l.exports=JSON.parse('{"tags":[{"label":"\u6c49\u5316","permalink":"/blog/tags/\u6c49\u5316","count":1},{"label":"hello","permalink":"/blog/tags/hello","count":1}]}')}}]);
